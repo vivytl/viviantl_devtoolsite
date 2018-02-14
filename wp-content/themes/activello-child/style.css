@@ -1,0 +1,138 @@
+/*
+Theme Name: Activello Child
+Description: A child theme of the Activello theme
+Author: Vivian Liu
+Template: activello
+Version: 1.0.0
+*/
+
+@import url("../activello/style.css");
+
+/*
+Colour palette
+Primary: #cfd8dc;
+Main: #E1E2E1;
+Main 2: #F5F5F6;
+P Light: #ffffff;
+P Dark: #9ea7aa;
+Secondary: #ffccbc;
+S Light: #ffffee;
+S Dark: #cb9b8c;
+Text on P: #37474f;
+Text on S: #eceff1;
+*/
+ /*Global style*/
+body{
+color:#37474f;
+background-color:#E1E2E1;
+font-family: Lora, sans-serif;
+}
+
+a{
+	color:#cb9b8c;
+}
+
+a:hover, a:focus{
+	color:#ffccbc;
+}
+
+
+/* Navbar style*/
+
+.navbar-brand{
+	color:#37474f;
+	font-family:Julius Sans One, sans-serif;
+	font-weight:bold;
+	font-size: 43px;
+	text-shadow: 3px 0px #ffccbc;
+}
+
+.tagline{
+	letter-spacing: 10px;
+}
+
+.navbar.navbar-default{
+	background-color:#cfd8dc;
+	padding: 10px;
+	font-family: Raleway, sans-serif;
+}
+
+
+.navbar-default .navbar-nav> li>a{
+	color: #34515e;
+} 
+
+.navbar-default .navbar-nav> li> a:hover, 
+.navbar-default .navbar-nav> .active a:hover{
+	color:#8eacbb;
+}
+
+.navbar-default .navbar-nav> .active a{
+	color:#cb9b8c;
+	font-style:italic;
+}
+
+
+.nav.navbar-nav{
+    float:left;
+
+}
+
+.navbar-header{
+	float:right;
+}
+
+.navbar-default .navbar-toggle{
+	border-color:#9ea7aa;
+}
+
+
+
+
+
+/*main style*/
+.main-content-area, .site-content{
+	background-color:#F5F5F6;
+	text-align:center;
+}
+
+
+/*page style*/
+.entry-content{
+	float:center;
+}
+
+
+
+
+
+
+
+
+/*footer style*/
+
+.site-footer{
+background-color:#E1E2E1;
+}
+
+.inner{
+	display:none;
+}
+
+.scroll-to-top{
+	color:#ffffee;
+	background-color: #ffccbc;
+}
+
+.scroll-to-top:hover{
+	background: #cb9b8c;
+}
+
+.copyright{
+	
+}
+
+
+
+
+

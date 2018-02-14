@@ -1,0 +1,164 @@
+/*
+ Theme Name: Twenty Sixteen Child Theme
+ description: A child theme of the Twenty Sixteen default WordPress theme
+ Author: Vivian Liu
+ Template: twentysixteen
+ Version: 1.0.0
+*/
+
+@import url("../twentysixteen/style.css");
+
+/**Color palette hex codes
+#F8E9A1: Pale Yellow;
+#F76C6C: Salmon Red;
+#A8D0E6: Pastel Muted Blue;
+#374785: Periwinkle Navy;
+#24305E: Deep Navy;
+
+**/
+
+
+
+
+/**Global Site styles**/
+.site{
+	background-color:#A8D0E6;
+}
+
+body{
+	background: #A8D0E6;
+}
+
+
+
+.site-branding 
+.site-title a{
+	color: #F8E9A1;
+	font-size: 50px;
+	text-shadow: 7px 0px #374785;
+	padding-right:10px;
+}
+
+.site-branding
+.site-title a:hover{
+	color: #F76C6C;
+}
+
+.site-description{
+	color:	#24305E;
+	font-size: 16px;
+	margin-top: 0px;
+	margin-left: 130px;
+	margin-bottom: 2px;
+}
+
+
+.main-navigation a{
+	padding-top: 50px;
+	padding-bottom: 10px;
+	color:#374785;
+	font-size:20x;
+}
+
+.main-navigation li:hover > a,
+.main-navigation li:focus > a{
+	font-style:italic;
+}
+
+.main-navigation .current-menu-item > a, .main-navigation .current-menu-ancestor > a {
+    color: #F8E9A1 ;
+    font-weight: 700;
+
+ 
+}
+
+.site-header{
+	padding:0px;
+	margin-bottom:50px;
+}
+
+/*hamburger menu when the site is in mobile*/
+.menu-toggle{
+	background-color: #f68984;
+	color:#feffff;
+	border: 1px solid #feffff;
+
+}
+
+.menu-toggle:hover, .menu-toggle:focus{
+	background-color: #f68984;
+	color:#feffff;
+	border-color:#feffff;
+}
+
+.menu-toggle.toggled-on, 
+.menu-toggle.toggled-on:hover,
+.menu-toggle.toggled-on:focus{
+	background-color: #f68984;
+	color:#feffff;
+	border-color: #feffff;
+}
+
+/*site header */
+
+.site-header-home{
+	background-color:blue;
+}
+
+.site-header-about{
+	background-color:red;
+
+}
+
+/*Body content style */
+.entry-title{
+	color: #24305E;
+	font-size: 20px;
+}
+
+body, 
+button, 
+input, 
+select, 
+textarea{
+color: #374785;
+font-size: 14px;
+}
+/*Footer Style*/
+
+
+.site-info{
+	margin:0;
+}
+.site-info a{
+	color: #24305E;
+	font-family:Merriweather, sans-serif;
+	font-size: 8px;
+}
+
+.site-info a:hover{
+	color: #F8E9A1
+}
+
+.social-navigation a{
+	border: 1px dotted #374785;
+	border-radius: 50%;
+	color:#374785;
+}
+
+.social-navigation ul{
+	size: 10px;
+}
+
+.site-footer{
+	padding:0px;
+}
+
+.site-footer .social-navigation{
+	margin:auto;
+}
+
+.site-navigation-inner{
+	float:right;
+}
+

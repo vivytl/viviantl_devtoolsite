@@ -1,0 +1,528 @@
+# Translation of Activello in English (Canada)
+# This file is distributed under the same license as the Activello package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-08-01 17:21:01+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Project-Id-Version: Activello\n"
+
+#. Theme Name of the plugin/theme
+msgid "Activello"
+msgstr "Activello"
+
+#. Description of the plugin/theme
+msgid "Activello is a clean and minimal WordPress blog theme with premium look and feel well suited for food, fashion, travel, lifestyle, sports and any other awesome blogs. This theme features WooCommerce integration that allows you to create fully functional eCommerce website side by side with your blog. This theme has several customization options that are available WordPress Theme Customizer. Theme is also multilingual ready and translated in several languages. This awesome blog theme is also SEO friendly helping you to achieve the highest positions on Google. Activello is the only WordPress blog theme you will ever need."
+msgstr "Activello is a clean and minimal WordPress blog theme with premium look and feel well suited for food, fashion, travel, lifestyle, sports and any other awesome blogs. This theme features WooCommerce integration that allows you to create fully functional eCommerce website side by side with your blog. This theme has several customization options that are available WordPress Theme Customizer. Theme is also multilingual ready and translated in several languages. This awesome blog theme is also SEO friendly helping you to achieve the highest positions on Google. Activello is the only WordPress blog theme you will ever need."
+
+#. Template Name of the plugin/theme
+msgid "Full-width(no sidebar)"
+msgstr "Full-width(no sidebar)"
+
+#: sidebar.php:38
+msgid "Meta"
+msgstr "Meta"
+
+#: searchform.php:14
+msgid "Search"
+msgstr "Search"
+
+#: searchform.php:12
+msgctxt "label"
+msgid "Search for:"
+msgstr "Search for:"
+
+#: searchform.php:12
+msgctxt "placeholder"
+msgid "Search&hellip;"
+msgstr "Search&hellip;"
+
+#: searchform.php:11
+msgid "Search for:"
+msgstr "Search for:"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Search Results for: %s"
+
+#: inc/widgets/widget-recent-posts.php:104
+msgid "Limit Posts Number"
+msgstr "Limit Posts Number"
+
+#: inc/widgets/widget-social.php:11
+msgid "Activello theme widget to display social media icons"
+msgstr "Activello theme widget to display social media icons"
+
+#: inc/widgets/widget-social.php:12
+msgid "Activello Social Widget"
+msgstr "Activello Social Widget"
+
+#: inc/widgets/widget-social.php:17 inc/widgets/widget-social.php:46
+msgid "Follow us"
+msgstr "Follow us"
+
+#: inc/widgets/widget-categories.php:91
+msgid "Limit Categories "
+msgstr "Limit Categories "
+
+#: inc/widgets/widget-categories.php:104
+msgid "Enable Posts Count"
+msgstr "Enable Posts Count"
+
+#: inc/widgets/widget-recent-posts.php:11
+msgid "Activello recent posts widget with thumbnails"
+msgstr "Activello recent posts widget with thumbnails"
+
+#: inc/widgets/widget-recent-posts.php:12
+msgid "Activello Recent Posts Widget"
+msgstr "Activello Recent Posts Widget"
+
+#: inc/widgets/widget-recent-posts.php:17
+#: inc/widgets/widget-recent-posts.php:91
+msgid "recent Posts"
+msgstr "recent Posts"
+
+#: inc/widgets/widget-recent-posts.php:96
+msgid "Title"
+msgstr "Title"
+
+#: inc/widgets/widget-categories.php:83 inc/widgets/widget-social.php:49
+msgid "Title "
+msgstr "Title"
+
+#: inc/template-tags.php:86
+msgid "Posted on"
+msgstr "Posted on"
+
+#: inc/widgets/widget-categories.php:11
+msgid "Activello widget to display categories"
+msgstr "Activello widget to display categories"
+
+#: inc/widgets/widget-categories.php:12
+msgid "Activello Categories"
+msgstr "Activello Categories"
+
+#: inc/widgets/widget-categories.php:17 inc/widgets/widget-categories.php:76
+msgid "Categories"
+msgstr "Categories"
+
+#: inc/template-tags.php:59
+msgctxt "Previous post link"
+msgid "<i class=\"fa fa-chevron-left\"></i> %title"
+msgstr "<i class=\"fa fa-chevron-left\"></i> %title"
+
+#: inc/template-tags.php:60
+msgctxt "Next post link"
+msgid "%title <i class=\"fa fa-chevron-right\"></i>"
+msgstr "%title <i class=\"fa fa-chevron-right\"></i>"
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "Post navigation"
+
+#: inc/template-tags.php:31
+msgid "Newer posts"
+msgstr "Newer posts"
+
+#: inc/template-tags.php:27
+msgid "Older posts"
+msgstr "Older posts"
+
+#: inc/navwalker.php:196
+msgid "Add a menu"
+msgstr "Add a Menu"
+
+#: inc/socialnav.php:13
+msgctxt "nav menu location"
+msgid "Social Menu"
+msgstr "Social Menu"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Posts navigation"
+
+#: inc/metaboxes.php:28
+msgid "Select layout for this specific Product only"
+msgstr "Select layout for this specific Product only"
+
+#: inc/metaboxes.php:58
+msgid "Default"
+msgstr "Standard"
+
+#: inc/metaboxes.php:16
+msgid "Select layout for this specific Page only ( Note: This setting only reflects if page Template is set as Default Template and Blog Type Templates.)"
+msgstr "Select layout for this specific Page only ( Note: This setting only reflects if page Template is set as Default Template and Blog Type Templates.)"
+
+#: inc/metaboxes.php:21
+msgid "Select layout for this specific Post only"
+msgstr "Select layout for this specific Post only"
+
+#: inc/extras.php:259
+msgid "Your comment is awaiting moderation."
+msgstr "Your comment is awaiting moderation."
+
+#. translators: 1: date, 2: time
+#: inc/extras.php:252
+msgid "%1$s at %2$s"
+msgstr "%1$s at %2$s"
+
+#: inc/extras.php:158
+msgid "Theme by %1$s Powered by %2$s"
+msgstr "Theme by %1$s Powered by %2$s"
+
+#: inc/extras.php:246
+msgid "<cite class=\"fn\">%s</cite> <span class=\"says\">says:</span>"
+msgstr "<cite class=\"fn\">%s</cite> <span class=\"says\">says:</span>"
+
+#: inc/extras.php:75
+msgid "Submit"
+msgstr "Submit"
+
+#: inc/extras.php:72
+msgid "Password:"
+msgstr "Password:"
+
+#: inc/extras.php:71
+msgid "<p>This post is password protected. To view it please enter your password below:</p>"
+msgstr "<p>This post is password protected. To view it please enter your password below:</p>"
+
+#: inc/customizer.php:205
+msgid "Additional CSS"
+msgstr "Additional CSS"
+
+#: inc/extras.php:54
+msgid "Untitled"
+msgstr "Untitled"
+
+#: inc/customizer.php:204
+msgid "Custom CSS"
+msgstr "Custom CSS"
+
+#: inc/customizer.php:195
+msgid "Other"
+msgstr "Other"
+
+#: inc/customizer.php:170
+msgid "Social Icon:hover Color"
+msgstr "Social Icon:hover Colour"
+
+#: inc/customizer.php:177
+msgid "Footer"
+msgstr "Footer"
+
+#: inc/customizer.php:141
+msgid "Choose between different layout options to be used as default"
+msgstr "Choose between different layout options to be used as default"
+
+#: inc/customizer.php:150
+msgid "Accent Color"
+msgstr "Accent Colour"
+
+#: inc/customizer.php:151 inc/customizer.php:161 inc/customizer.php:171
+msgid "Default used if no color is selected"
+msgstr "Default used if no colour is selected"
+
+#: inc/customizer.php:160
+msgid "Social icon color"
+msgstr "Social icon colour"
+
+#: inc/customizer.php:53
+msgid "Activello Options"
+msgstr "Activello Options"
+
+#: inc/customizer.php:54
+msgid "Panel to update activello theme options"
+msgstr "Panel to update activello theme options"
+
+#: inc/customizer.php:60
+msgid "Content Options"
+msgstr "Content Options"
+
+#: inc/customizer.php:73
+msgid "Show post excerpts?"
+msgstr "Show post excerpts?"
+
+#: inc/customizer.php:85
+msgid "Display Comments on Static Pages?"
+msgstr "Display Comments on Static Pages?"
+
+#: inc/customizer.php:94
+msgid "Slider Option"
+msgstr "Slider Option"
+
+#: inc/customizer.php:127
+msgid "Layout options"
+msgstr "Layout options"
+
+#: inc/customizer.php:138
+msgid "Website Layout Options"
+msgstr "Website Layout Options"
+
+#: inc/customizer.php:44
+msgid "Show"
+msgstr "Show"
+
+#: image.php:23
+msgid "Next <i class=\"fa fa-chevron-right\"></i>"
+msgstr "Next <i class=\"fa fa-chevron-right\"></i>"
+
+#: inc/customizer.php:30
+msgid "Logo"
+msgstr "Logo"
+
+#: header.php:40
+msgid "Toggle navigation"
+msgstr "Toggle navigation"
+
+#: image.php:22
+msgid "<i class=\"fa fa-chevron-left\"></i> Previous"
+msgstr "<i class=\"fa fa-chevron-left\"></i> Previous"
+
+#: functions.php:228
+msgid "Logo Only"
+msgstr "Logo Only"
+
+#: functions.php:229
+msgid "Logo + Tagline"
+msgstr "Logo + Tagline"
+
+#: functions.php:230
+msgid "Title Only"
+msgstr "Title Only"
+
+#: functions.php:231
+msgid "Title + Tagline"
+msgstr "Title + Tagline"
+
+#: functions.php:266 searchform.php:14
+msgctxt "submit button"
+msgid "Search"
+msgstr "Search"
+
+#: functions.php:226
+msgid "No Sidebar"
+msgstr "No Sidebar"
+
+#: functions.php:226
+msgid "Full Width"
+msgstr "Full Width"
+
+#: functions.php:226
+msgid "Right Sidebar"
+msgstr "Right Sidebar"
+
+#: functions.php:226
+msgid "Left Sidebar"
+msgstr "Left Sidebar"
+
+#: functions.php:112
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: functions.php:71
+msgid "Primary Menu"
+msgstr "Primary Menu"
+
+#: content.php:73
+msgid "% Comments"
+msgstr "% Comments"
+
+#: content-single.php:55
+msgid "Comment (1)"
+msgstr "Comment (1)"
+
+#: content-single.php:55
+msgid "Comments (%)"
+msgstr "Comments (%)"
+
+#: content.php:73
+msgid "1 Comment"
+msgstr "1 Comment"
+
+#: content-single.php:55 content.php:73
+msgid "Leave a comment"
+msgstr "Leave a comment"
+
+#. translators: %s: Name of current post
+#: content-single.php:21 content.php:22
+msgid "Edit %s"
+msgstr "Edit %s"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Nothing Found"
+
+#: content-grid.php:37 content-page.php:21 content-single.php:43 content.php:56
+#: image.php:79
+msgid "Pages:"
+msgstr "Pages:"
+
+#: content-grid.php:28 content.php:41 content.php:67 inc/extras.php:137
+msgid "Read More"
+msgstr "Read more"
+
+#: comments.php:96
+msgctxt "comment form placeholder"
+msgid "Comment"
+msgstr "Comment"
+
+#: content-grid.php:16 content-page.php:32 inc/extras.php:252
+msgid "Edit"
+msgstr "Edit"
+
+#: comments.php:94
+msgid "Post Reply"
+msgstr "Post Reply"
+
+#: comments.php:85
+msgid "Website"
+msgstr "Website"
+
+#: comments.php:81
+msgid "Email"
+msgstr "Email"
+
+#: comments.php:77
+msgid "Name"
+msgstr "Name"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "Comments are closed"
+
+#: comments.php:37 comments.php:56
+msgid "Newer Comments &rarr;"
+msgstr "Newer Comments &rarr;"
+
+#: comments.php:36 comments.php:55
+msgid "&larr; Older Comments"
+msgstr "&larr; Older Comments"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "1 Comment"
+msgid_plural "%1$s Comment"
+msgstr[0] "1 Comment"
+msgstr[1] "%1$s Comment"
+
+#: comments.php:35 comments.php:54
+msgid "Comment navigation"
+msgstr "Comment navigation"
+
+#: archive.php:63
+msgid "Chats"
+msgstr "Chats"
+
+#: archive.php:60
+msgid "Audios"
+msgstr "Audios"
+
+#: archive.php:57
+msgid "Statuses"
+msgstr "Statuses"
+
+#: archive.php:54
+msgid "Links"
+msgstr "Links"
+
+#: archive.php:51
+msgid "Quotes"
+msgstr "Quotes"
+
+#: archive.php:48
+msgid "Videos"
+msgstr "Videos"
+
+#: archive.php:45
+msgid "Images"
+msgstr "Images"
+
+#: archive.php:42
+msgid "Galleries"
+msgstr "Galleries"
+
+#: archive.php:39
+msgid "Asides"
+msgstr "Asides"
+
+#: archive.php:36
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:36
+msgid "Year: %s"
+msgstr "Year: %s"
+
+#: archive.php:33
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:33
+msgid "Month: %s"
+msgstr "Month: %s"
+
+#: archive.php:30
+msgid "Day: %s"
+msgstr "Day: %s"
+
+#: archive.php:27
+msgid "Author: %s"
+msgstr "Author: %s"
+
+#: 404.php:58
+msgid "Tags"
+msgstr "Tags"
+
+#: 404.php:53 archive.php:66 sidebar.php:31
+msgid "Archives"
+msgstr "Archives"
+
+#. translators: %1$s: smiley
+#: 404.php:52
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Try looking in the monthly archives. %1$s"
+
+#: 404.php:31
+msgid "Most Used Categories"
+msgstr "Most Used Categories"
+
+#: 404.php:25
+msgid "Recent Posts"
+msgstr "Recent Posts"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! That page can&rsquo;t be found."
+
+#. Theme URI of the plugin/theme
+msgid "https://colorlib.com/wp/themes/activello/"
+msgstr "https://colorlib.com/wp/themes/activello/"
+
+#. Author of the plugin/theme
+msgid "Colorlib"
+msgstr "Colourlib"
+
+#. Author URI of the plugin/theme
+msgid "http://colorlib.com"
+msgstr "http://colorlib.com"

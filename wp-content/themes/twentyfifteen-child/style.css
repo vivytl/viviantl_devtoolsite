@@ -1,0 +1,21 @@
+/*
+ Theme Name: Twenty Fifteen Child Theme
+ description: A child theme of the Twenty Fifteen default WordPress theme
+ Author: Vivian Liu
+ Template: twentyfifteen
+ Version: 1.0.0
+*/
+
+@import url("../twentyfifteen/style.css");
+
+//
+
+.entry-header{
+	padding: 0 5%;
+}
+.entry-title, .widecolumn h2{
+	margin-bottom: 0.5em;
+}
+
+
+}

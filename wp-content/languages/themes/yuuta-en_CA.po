@@ -1,0 +1,345 @@
+# Translation of Themes - Yuuta in English (Canada)
+# This file is distributed under the same license as the Themes - Yuuta package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-03-20 00:01:12+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: en_CA\n"
+"Project-Id-Version: Themes - Yuuta\n"
+
+#. Description of the plugin/theme
+msgid "Yuuta is a clean and free WordPress theme designed to serve as a visual diary. Due to support of all post formats you can create a pretty diversified blog."
+msgstr "Yuuta is a clean and free WordPress theme designed to serve as a visual diary. Due to support of all post formats you can create a pretty diversified blog."
+
+#. Theme Name of the plugin/theme
+msgid "Yuuta"
+msgstr "Yuuta"
+
+#: inc/template-tags.php:129
+msgid "Read More"
+msgstr "Read more"
+
+#: inc/template-tags.php:120 inc/template-tags.php:135
+msgid "View % comments"
+msgstr "View % comments"
+
+#: inc/template-tags.php:120 inc/template-tags.php:135
+msgid "View one comment"
+msgstr "View one comment"
+
+#: inc/template-tags.php:120 inc/template-tags.php:135
+msgid "Comment"
+msgstr "Comment"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Search Results for: %s"
+
+#: page-archive.php:55
+msgid "Tags"
+msgstr "Tags"
+
+#: page-archive.php:52
+msgid "Categories"
+msgstr "Categories"
+
+#: page-archive.php:49
+msgid "Authors"
+msgstr "Authors"
+
+#: page-archive.php:46
+msgid "Monthly"
+msgstr "Monthly"
+
+#: page-archive.php:43
+msgid "Yearly"
+msgstr "Yearly"
+
+#: inc/template-tags.php:322
+msgid "Submit"
+msgstr "Submit"
+
+#: inc/template-tags.php:322
+msgid "Password:"
+msgstr "Password:"
+
+#: inc/template-tags.php:321
+msgid "To view this protected post, enter the password below:"
+msgstr "To view this protected post, enter the password below:"
+
+#. #-#-#-#-#  yuuta.pot (Yuuta 1.6.3)  #-#-#-#-#
+#. Template Name of the plugin/theme
+#: inc/template-tags.php:221
+msgid "Archives"
+msgstr "Archives"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:219
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:215
+msgid "Archives: %s"
+msgstr "Archives: %s"
+
+#: inc/template-tags.php:212
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Chats"
+
+#: inc/template-tags.php:210
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Audio"
+
+#: inc/template-tags.php:208
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Statuses"
+
+#: inc/template-tags.php:206
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Links"
+
+#: inc/template-tags.php:204
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Quotes"
+
+#: inc/template-tags.php:202
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Videos"
+
+#: inc/template-tags.php:200
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Images"
+
+#: inc/template-tags.php:198
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Galleries"
+
+#: inc/template-tags.php:196
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Asides"
+
+#: inc/template-tags.php:193
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: inc/template-tags.php:193
+msgid "Day: %s"
+msgstr "Day: %s"
+
+#: inc/template-tags.php:191
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:191
+msgid "Month: %s"
+msgstr "Month: %s"
+
+#: inc/template-tags.php:189
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:189
+msgid "Year: %s"
+msgstr "Year: %s"
+
+#: inc/template-tags.php:187
+msgid "Author: %s"
+msgstr "Author: %s"
+
+#: inc/template-tags.php:185
+msgid "Tag: %s"
+msgstr "Tag: %s"
+
+#: inc/template-tags.php:183
+msgid "Category: %s"
+msgstr "Category: %s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:159
+msgid " #"
+msgstr " #"
+
+#: inc/template-tags.php:155 inc/template-tags.php:161
+msgid "%1$s"
+msgstr "%1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:153
+msgid " "
+msgstr " "
+
+#: inc/template-tags.php:93
+msgctxt "post author"
+msgid "by %s"
+msgstr "By %s"
+
+#: inc/template-tags.php:88
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Posted on %s"
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "Post navigation"
+
+#: inc/template-tags.php:31
+msgid "Newer posts"
+msgstr "Newer posts"
+
+#: inc/template-tags.php:27
+msgid "Older posts"
+msgstr "Older posts"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Posts navigation"
+
+#: inc/extras.php:52
+msgid "Page %s"
+msgstr "Page %s"
+
+#: header.php:26
+msgid "Skip to content"
+msgstr "Skip to content"
+
+#: inc/comments.php:33
+msgid "Reply"
+msgstr "Reply"
+
+#: inc/comments.php:27 inc/template-tags.php:165
+msgid "Edit"
+msgstr "Edit"
+
+#: inc/comments.php:23
+msgid "(Your comment is awaiting moderation.)"
+msgstr "(Your comment is awaiting moderation.)"
+
+#. translators: If there are characters in your language that are not supported
+#. by Roboto Slab, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:142
+msgctxt "Roboto Slab font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. by Roboto, translate this to 'off'. Do not translate into your own language.
+#: functions.php:137
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:116
+msgid "Footer"
+msgstr "Footer"
+
+#: functions.php:69
+msgid "Primary Menu"
+msgstr "Primary Menu"
+
+#: footer.php:35
+msgid "Theme: %1$s by %2$s"
+msgstr "Theme: %1$s by %2$s"
+
+#: footer.php:34
+msgid "Proudly powered by %s"
+msgstr "Proudly powered by %s"
+
+#: footer.php:34
+msgid "https://wordpress.org/"
+msgstr "https://en-ca.wordpress.org/"
+
+#: template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Nothing Found"
+
+#: inc/template-tags.php:119
+msgid "Read More & "
+msgstr "Read More & "
+
+#: template-parts/content-aside.php:30 template-parts/content-audio.php:30
+#: template-parts/content-chat.php:36 template-parts/content-gallery.php:37
+#: template-parts/content-image.php:30 template-parts/content-single.php:41
+#: template-parts/content-video.php:30 template-parts/content.php:37
+msgid "Pages:"
+msgstr "Pages:"
+
+#: template-parts/content-aside.php:21 template-parts/content-audio.php:21
+#: template-parts/content-chat.php:22 template-parts/content-gallery.php:22
+#: template-parts/content-image.php:21 template-parts/content-link.php:22
+#: template-parts/content-quote.php:22 template-parts/content-single.php:20
+#: template-parts/content-video.php:21 template-parts/content.php:22
+msgid "Featured"
+msgstr "Featured"
+
+#: comments.php:70
+msgid "Apologies, for this post the comments are closed."
+msgstr "Apologies, for this post the comments are closed."
+
+#: comments.php:38
+msgid "Post comment"
+msgstr "Post Comment"
+
+#: comments.php:33
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\">Log out?</a>"
+msgstr "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\">Log out?</a>"
+
+#: comments.php:31
+msgid "Type your comment here..."
+msgstr "Type your comment here..."
+
+#: comments.php:26
+msgid "Email (hidden)"
+msgstr "Email (hidden)"
+
+#: comments.php:23
+msgid "Name"
+msgstr "Name"
+
+#: comments.php:4
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "This post is password protected. Enter the password to view any comments."
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "It looks like nothing was found at this location. Maybe try a search?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! That page can&rsquo;t be found."
+
+#. Author URI of the plugin/theme
+msgid "https://felixdorner.de"
+msgstr "https://felixdorner.de"
+
+#. Author of the plugin/theme
+msgid "Felix Dorner"
+msgstr "Felix Dorner"
