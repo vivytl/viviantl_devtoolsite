@@ -46,10 +46,10 @@ body{
 
 .site-description{
 	color:	#24305E;
+	font-family: Raleway, sans-serif;
 	font-size: 16px;
 	margin-top: 0px;
-	margin-left: 130px;
-	margin-bottom: 2px;
+	margin-left: 50px;
 }
 
 
@@ -76,12 +76,6 @@ body{
 	padding:0px;
 	margin-bottom:50px;
 }
-
-.main-navigation 
-.menu-item-has-children > a:after{
-	display: none;
-}
-
 
 /*hamburger menu when the site is in mobile*/
 .menu-toggle{
