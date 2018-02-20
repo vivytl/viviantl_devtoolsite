@@ -3,4 +3,5 @@ wp-config-sample.php
 viviantliu.sql
 wp-content/upload/*
 wp-config.php
+htaccess
 
