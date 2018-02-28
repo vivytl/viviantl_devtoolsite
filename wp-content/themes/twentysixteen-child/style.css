@@ -6,6 +6,7 @@
  Version: 1.0.0
 */
 
+/*Parent theme */
 @import url("../twentysixteen/style.css");
 
 /**Color palette hex codes
@@ -16,6 +17,10 @@
 #24305E: Deep Navy;
 
 **/
+
+/*Font imports*/
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+@import url('https://fonts.googleapis.com/css?family=Merriweather');
 
 
 
