@@ -40,10 +40,12 @@ get_header(); ?>
 				comments_template();
 			}*/
 
-
-
 			// End of the loop.
 		endwhile;
+
+		if (is_page ('About')):
+			get_template_part ('template-parts/content', 'content-page-about');
+		endif;
 		?>
 
 	</main><!-- .site-main -->
