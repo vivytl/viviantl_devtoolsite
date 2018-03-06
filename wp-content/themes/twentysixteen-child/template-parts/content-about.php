@@ -1,6 +1,5 @@
 <?php
-/** Template Name: content-about
-** Template Description: This template is used for displaying the page content for the About Me section */
+/** Template Description: This template is used for displaying the page content for the About Me section */
 ?>
 
 <?php twentysixteen_post_thumbnail(); ?>

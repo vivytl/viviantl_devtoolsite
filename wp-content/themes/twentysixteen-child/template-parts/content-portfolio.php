@@ -1,5 +1,4 @@
 <?php
-/*Template Name: content-portfolio
 /* Template Description: This is the template for the content of the portfolio page */
 ?>
 

@@ -1,5 +1,4 @@
 <?php
-/* Template Name: content-resume
 /* Template Description: This is the template for the content of the resume page */
 ?>
 
