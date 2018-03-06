@@ -16,7 +16,7 @@ get_header(); ?>
 		while ( have_posts() ) : the_post();
 
 			// Include the single post content template.
-			get_template_part( 'template-parts/content', 'single' );
+			get_template_part( 'template-parts/content-portfolio', 'single' );
 
 /*
 			// If comments are open or we have at least one comment, load up the comment template.
