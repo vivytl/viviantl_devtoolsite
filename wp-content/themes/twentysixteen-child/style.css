@@ -81,6 +81,7 @@ body{
 	margin-bottom:50px;
 }
 
+
 /*hamburger menu when the site is in mobile*/
 .menu-toggle{
 	background-color: #f68984;
@@ -102,6 +103,8 @@ body{
 	color:#feffff;
 	border-color: #feffff;
 }
+
+
 
 /*site header */
 
